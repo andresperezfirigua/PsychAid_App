@@ -1,21 +1,21 @@
 .tab-panel {
-    border: 1px solid rgb(58, 55, 55);
+    border: 1px solid rgb(255, 255, 255);
     padding: 10px;
     border-radius: 4px;
   }
   
   .nav-tabs > li.open, .member-tabset > .nav-tabs > li:hover {
-    border-bottom: 4px solid #1f1c1c;
+    border-bottom: 4px solid #ffffff;
   }
   
   .member-tabset > .nav-tabs > li.open > a, .member-tabset > .nav-tabs > li:hover > a {
     border: 0;
     background: none !important;
-    color: #292424;
+    color: #ffffff;
   }
   
   .member-tabset > .nav-tabs > li.open > a > i, .member-tabset > .nav-tabs > li:hover > a > i {
-    color: #383333;
+    color: #ffffff;
   }
   
   .member-tabset > .nav-tabs > li.open .dropdown-menu, .member-tabset > .nav-tabs > li:hover .dropdown-menu {
@@ -23,24 +23,24 @@
   }
   
   .member-tabset > .nav-tabs > li.active {
-    border-bottom: 4px solid #413b39;
+    border-bottom: 4px solid #ffffff;
     position: relative;
   }
   
   .member-tabset > .nav-tabs > li.active > a {
     border: 0 !important;
-    color: #363434;
+    color: #000000;
   }
   
   .member-tabset > .nav-tabs > li.active > a > i {
-    color: #363333;
+    color: #000000;
   }
   
   .member-tabset > .tab-content {
     margin-top: -3px;
-    background-color: rgb(41, 38, 38);
+    background-color: rgb(255, 255, 255);
     border: 0;
-    border-top: 1px solid rgb(56, 54, 54);
+    border-top: 1px solid rgb(255, 255, 255);
     padding: 15px 0;
   }
   
